@@ -68,3 +68,9 @@ Estudante de **Sistemas de Informação** **sistemas embarcados, robótica, segu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:261447,100:0d0221&height=100&section=footer" width="100%" alt="footer">
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guiinnn/Guiinnn/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guiinnn/Guiinnn/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Guiinnn/Guiinnn/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
