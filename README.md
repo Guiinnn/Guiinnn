@@ -62,9 +62,8 @@ Estudante de **Sistemas de Informação** **sistemas embarcados, robótica, segu
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=00ff9f)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00b8ff)](https://linkedin.com/in/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=ff00c8)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=00ff9f)](https://github.com/Guiinnn)
+[![Medium](https://img.shields.io/badge/MEDIUM-0d0221?style=for-the-badge&logo=medium&logoColor=00ff9f)](https://medium.com/@yagojose38)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:261447,100:0d0221&height=100&section=footer" width="100%" alt="footer">
 
