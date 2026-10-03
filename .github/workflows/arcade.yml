@@ -1,0 +1,20 @@
+name: generate arcade contribution graphs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # a cada 12h
+  workflow_dispatch:          # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
